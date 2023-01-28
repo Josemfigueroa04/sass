@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap");
+.container {
+  background-color: black;
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+}
+.container .card {
+  background-color: black;
+  align-items: center;
+}
+.container img {
+  height: 300px;
+  width: 300px;
+}
+.container .card-title {
+  color: rgb(219, 40, 70);
+  font-size: 40px;
+}
+.container .card-text, .container a {
+  color: white;
+  font-size: 30px;
+}
+.container a {
+  background-color: rgb(219, 40, 70);
+}/*# sourceMappingURL=estilos.css.map */
